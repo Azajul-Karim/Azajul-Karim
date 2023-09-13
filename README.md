@@ -4,7 +4,7 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Azajul-Karim&label=Profile%20views&color=0e75b6&style=flat" alt="Azajul-Karim" /> </p>
 
-- 🖥️ I’m working As <b>Jr.Web Developer</b>
+
 - 🌱 I’m currently learning <b>Laravel , Vue js</b>
 - 💬 Ask me about <b>Javascript</b>
 - 📫 How to reach me <b>azajulkarim2021@gmail.com</b>
